@@ -10,6 +10,7 @@ using namespace std;
 
 void loopchar(char whatchar, int num) {
 	/** prints num copies of whatchar */
+	// Testing
 	for (int i = 0; i<num; i++) {
 		cout << whatchar;
 	}
