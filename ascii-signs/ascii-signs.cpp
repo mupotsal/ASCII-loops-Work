@@ -1,8 +1,9 @@
 /* ASCII art with functions and loops
-by <username(s)> FIXME!!  
+by <Liberty Mupotsa(s)> FIXME!!  
 
 Based on Burmashave ads https://en.wikipedia.org/wiki/Burma-Shave
 and ASCII sign found at https://www.asciiart.eu/miscellaneous/signs */
+// Credit to https://asciiart.website/index.php?art=objects/books
 
 #include <iostream>
 #include <string>
